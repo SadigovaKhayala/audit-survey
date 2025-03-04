@@ -1,28 +1,79 @@
 [
   {
-    "surveyId": "2b968ded-26cc-4a0e-8a5c-7d0fbc3408ff",
-    "username": "Fariz Rehimov",
+    "surveyId": "62704036-0e4d-46bd-b278-1d13c1682f77",
+    "username": "Elgün Qurbanov",
+    "responses": {
+      "0": {
+        "0": "1",
+        "1": "2",
+        "2": "2",
+        "3": "2"
+      },
+      "1": {
+        "0": "1",
+        "1": "1"
+      }
+    },
+    "submittedAt": "2025-02-19T13:46:53.103Z"
+  },
+  {
+    "surveyId": "b9d64f7a-8f03-4be6-87d4-74951648c41d",
+    "username": "Elgün Qurbanov",
     "responses": {
       "0": {
         "0": "2",
         "1": "2",
-        "2": "4",
+        "2": "3",
         "3": "2"
       },
       "1": {
-        "0": "3",
-        "1": "2"
+        "0": "2",
+        "1": "1"
       }
     },
-    "submittedAt": "2025-02-19T13:09:24.910Z"
+    "submittedAt": "2025-02-19T13:47:10.854Z"
   },
   {
-    "surveyId": "2b968ded-26cc-4a0e-8a5c-7d0fbc3408ff",
+    "surveyId": "95036df3-3ff4-4320-a7b2-52c548186c16",
+    "username": "Fariz Rehimov",
+    "responses": {
+      "0": {
+        "0": "1",
+        "1": "3",
+        "2": "3",
+        "3": "4"
+      },
+      "1": {
+        "0": "1",
+        "1": "1"
+      }
+    },
+    "submittedAt": "2025-02-19T13:47:37.408Z"
+  },
+  {
+    "surveyId": "bd5c87ad-71e7-491b-8f67-038a80c3bb6c",
     "username": "Anar Qocayev",
     "responses": {
       "0": {
-        "0": "4",
+        "0": "1",
         "1": "3",
+        "2": "2",
+        "3": "4"
+      },
+      "1": {
+        "0": "1",
+        "1": "2"
+      }
+    },
+    "submittedAt": "2025-02-19T13:48:00.960Z"
+  },
+  {
+    "surveyId": "2e7f03a8-cd1a-4afc-ba6f-efa17e121bb0",
+    "username": "Elgün Qurbanov",
+    "responses": {
+      "0": {
+        "0": "1",
+        "1": "1",
         "2": "1",
         "3": "2"
       },
@@ -31,6 +82,6 @@
         "1": "2"
       }
     },
-    "submittedAt": "2025-02-19T13:09:36.619Z"
+    "submittedAt": "2025-02-25T13:27:47.697Z"
   }
 ]
